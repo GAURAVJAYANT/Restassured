@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-30T13:26:22 IST" name="Command line suite" finished-at="2025-11-30T13:26:24 IST" duration-ms="1639">
+    <groups>
+    </groups>
+    <test started-at="2025-11-30T13:26:22 IST" name="Command line test" finished-at="2025-11-30T13:26:24 IST" duration-ms="1639">
+      <class name="files.Dynamicjson">
+        <test-method signature="addbook()[pri:0, instance:files.Dynamicjson@3b94d659]" started-at="2025-11-30T13:26:22 IST" name="addbook" finished-at="2025-11-30T13:26:24 IST" duration-ms="1608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+      </class> <!-- files.Dynamicjson -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
